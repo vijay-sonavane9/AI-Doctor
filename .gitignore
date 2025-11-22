@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Gradio temp files
+.gradio/
+flagged/
+
+# Large media files (Optional, prevents upload errors)
+*.mp3
+*.wav
